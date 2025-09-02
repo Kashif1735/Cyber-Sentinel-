@@ -1,0 +1,5 @@
+{
+  "name": "CyberSentinel",
+  "description": "An all-in-one cybersecurity solution integrating network monitoring, file integrity checking, phishing detection, and encrypted password storage into a single, user-friendly application.",
+  "requestFramePermissions": []
+}
